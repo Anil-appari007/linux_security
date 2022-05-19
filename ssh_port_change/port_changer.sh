@@ -3,6 +3,7 @@ new_port_number_for_ssh=9111
 
 sshd_config='/etc/ssh/sshd_config'
 
+# sshd_config='sshd_config.txt'
 ############
 ##  Don't edit the below code
 ##  set -x
